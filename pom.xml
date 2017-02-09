@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 <parent>
     <groupId>com.liyun.car</groupId>
-    <artifactId>liyun-parent</artifactId>
+    <artifactId>liyun-cms-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>liyun-remote</artifactId>
